@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CryptoNews/static/css/main.37d52b54.chunk.css",
+    "main.js": "/CryptoNews/static/js/main.79fd7bfe.chunk.js",
+    "main.js.map": "/CryptoNews/static/js/main.79fd7bfe.chunk.js.map",
+    "runtime-main.js": "/CryptoNews/static/js/runtime-main.0c915d72.js",
+    "runtime-main.js.map": "/CryptoNews/static/js/runtime-main.0c915d72.js.map",
+    "static/js/2.fcaf9218.chunk.js": "/CryptoNews/static/js/2.fcaf9218.chunk.js",
+    "static/js/2.fcaf9218.chunk.js.map": "/CryptoNews/static/js/2.fcaf9218.chunk.js.map",
+    "index.html": "/CryptoNews/index.html",
+    "precache-manifest.fb31b66e4435e30dc163c9d3930601cc.js": "/CryptoNews/precache-manifest.fb31b66e4435e30dc163c9d3930601cc.js",
+    "service-worker.js": "/CryptoNews/service-worker.js",
+    "static/css/main.37d52b54.chunk.css.map": "/CryptoNews/static/css/main.37d52b54.chunk.css.map",
+    "static/js/2.fcaf9218.chunk.js.LICENSE.txt": "/CryptoNews/static/js/2.fcaf9218.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c915d72.js",
+    "static/js/2.fcaf9218.chunk.js",
+    "static/css/main.37d52b54.chunk.css",
+    "static/js/main.79fd7bfe.chunk.js"
+  ]
+}
