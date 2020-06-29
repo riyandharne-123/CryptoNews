@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "47cef824be38d10cc2bc4cb4b6b11647",
+    "revision": "14d4f894d8605e05dfc5c1ae1a1c1e96",
     "url": "/CryptoNews/index.html"
   },
   {
-    "revision": "136c18d3894cfcc673e3",
+    "revision": "a3b620ddc00acc72e25f",
     "url": "/CryptoNews/static/css/main.37d52b54.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CryptoNews/static/js/2.fcaf9218.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "136c18d3894cfcc673e3",
-    "url": "/CryptoNews/static/js/main.79fd7bfe.chunk.js"
+    "revision": "a3b620ddc00acc72e25f",
+    "url": "/CryptoNews/static/js/main.e2ca1d98.chunk.js"
   },
   {
     "revision": "727dc2e025432dbcafc8",
